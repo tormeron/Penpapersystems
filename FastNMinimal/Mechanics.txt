@@ -1,0 +1,39 @@
+Mechanics
+the following section deals with how rolls are made for each of the following abilities:
+Attack
+1d20+physical+weapon
+roll20: Attacks: [[1d20+@{physical}+@{Weapon}]]
+Defend
+unarmored 1d20+quick+shield
+armored 1/2 quick + 1d20+shield+armor
+roll20: defends
+unarmored [[1d20+@{quick}+@{shield}]]
+armored: [[@{quick}/2+1d20+@{shield}]+@{armor}]]
+Deceive-persuade
+1d20+charisma
+roll20: deception: [[1d20+@{charisma}]]
+Insight
+1d20+Intelligence
+roll20: insight [[1d20+@{intelligence}]]
+Perceive-stealth
+1d20+intelligence
+roll20:Perceive / stealth:
+[[1d20+@{intelligence}]]
+Memory
+1d20+knowledge
+
+roll20: memory: [[1d20+@{knowledge}-@{active_spells}]]
+Attack-spell
+1d20+spellpower-active_spells
+roll20:spell attack; [[1d20+@{spellpower}-@{active_spells}]]
+heal
+heal+spellpower-active_spells
+roll20:healing: [[@{heal}+@{spellpower}-@{active_spells}]]
+ranged attack
+1/2quick+1d20
+roll20:Ranged: [[@{quick}/2+1d20]]
+Damage
+melee / range: weapon+physical
+spells: spellpower-active spells
+roll20: Melee / Ranged: [[@{weapon}+@{physical}]]
+Spells [[@{spellpower}-@{active_spells}]]

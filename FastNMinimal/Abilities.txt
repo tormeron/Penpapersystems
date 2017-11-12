@@ -1,0 +1,13 @@
+Abilities
+ability name - type of ability - affected by this characteristic
+Attack - A melee attack - physical
+Defend - block or dodge - quick, armor
+deceive persuade - charisma
+perceive stealth - looking / hearing / hiding - intelligence
+memory - recalling, learning knowledge about - wisdom
+Attack spell - A spell attack - spellpower
+heal - Healing - heal, spellpower
+ranged attack - a ranged attack - quick
+damage - damage of spells or non spells - physical, spellpower
+Insight: intelligence
+Notice that memory, attack spell, heal and damage for spells is affected by how many active spells you have

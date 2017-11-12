@@ -1,0 +1,6 @@
+(Pen and Paper)
+This is a simplified Dungeons and dragons style game.
+This game is not meant to replace Dungeons and Dragons when playing a long campaign and want the depth of
+characters in Dungeons and dragons but it is a way to quickly and easily create characters for playing with friends
+and family that are not very knowledgeable about Pen and paper games.
+This system is class and race agnostic. it is minimal on rules, allowing for DMs to add anything they want to it.

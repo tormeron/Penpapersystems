@@ -1,0 +1,28 @@
+basic explanations
+The following are attributes that can be modified each level up:
+physical - provides this modifier to the dice roll when attacking with weapons
+quick - provides this modifier to dice roll when defending
+charisma - provides this modifier to dice roll when using deception.
+intelligence - provides this modifier to dice roll when trying to learn something or to detect a lie
+knowledge - provides this modifier to dice roll when trying to learn something
+HP - your health, every attack does 1 damage to you
+heal - modifier to healing others and yourself
+spellpower - modifier to damaging spells hit roll + modifier to healing.
+Some other explanations about attributes:
+healing and spell casting is only available if you have at least 1 point to the relevant ability.
+Attack range
+Range of all physical attacks is 5 feet
+Range of all melee weapon attacks is 10 feet
+Range of all ranged weapon attacks is 120 feet
+Range of all spells is 60 feet
+range of all healing is 15 feet
+Weapon attribute is a modifier to attack in case you have a weapon, the modifier depends on the weapon and
+whether it's magical or not
+shield - is a modifier to defend in case you have a shield, the modifier depends on the weapon and whether it's
+magical or not. (does stack with quick)
+armor - is a modifier to defend in case you have an armor, armor modifier does not stack with quick, if armor is
+worn ONLY armor modifier is applied
+Ranged weapons add half of quick modifier to attacks
+
+Active_spells - How many spells are currently active concurrently (for each spell being active your current
+knowledge and spellpower are reduced by the amount equal to the active spells).
