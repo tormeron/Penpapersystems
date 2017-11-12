@@ -1,0 +1,5 @@
+Guideline #6 Counterspelling & Dispelling
+Much like defense, spellcasting can be countered by an apropriate spell.
+Optional: counterspelling would require the player rolling a D10 + his spellpower.
+The total needs to be above the spellpower of the enemy casting the spell and would take
+away his attack / turn.

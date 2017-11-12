@@ -1,0 +1,35 @@
+<h3>Abilities</h3>
+<table>
+    <tr><td>Level:</td><td><input type="number" name="attr_level" value=0 /></td>
+    <td>Physical:</td><td><input type="number" name="attr_physical" value=0 /></td></tr>
+    <tr><td>Dexterity::</td><td><input type="number" name="attr_quick" value=0 /></td>
+    <td>Intelligence:</td><td><input type="number" name="attr_intelligence" value=0 /></td></tr>
+    <tr><td>Knowledge:</td><td><input type="number" name="attr_knowledge" value=0 /></td>
+    <td>Charisma:</td><td><input type="number" name="attr_charisma" value=0 /></td></tr>
+    <tr><td>HP:</td><td><input type="number" name="attr_HP" value=0 /></td>
+    <td>Heal:</td><td><input type="number" name="attr_heal" value=0 /></td></tr>
+    <tr><td>spellpower:</td><td><input type="number" name="attr_spellpower" value=0 /></td></tr>
+</table>
+<hr>
+<h3>Equipment:</h3>
+<textarea name="attr_items"></textarea>
+<h3>Misc / other</h3>
+<table>
+<tr><td>Weapon:</td><td><input type="number" name="attr_Weapon" value=0 /></td></tr>
+<tr><td>Shield:</td><td><input type="number" name="attr_shield" value=0 /></td></tr>
+<tr><td>Armor:</td><td><input type="number" name="attr_armor" value=0 /></td></tr>
+<tr><td>Active spells:</td><td><input type="number" name="attr_active_spells" value=0 /></td></tr>
+</table>
+<hr>
+<h3>Actions</h3>
+<table>
+<tr><td>Attack:</td><td><button type="roll" value="&{template:default} {{name=Melee attack}} {{attack=[[1d20+@{physical}]]}} {{Damage=[[@{weapon}+@{physical}]]}}" name="Attack"></button></td>
+<td>Spell Attack:</td><td><button type="roll" value="&{template:default} {{name=Spell Attack}} {{attack=[[1d20+@{spellpower}-@{active_spells}]]}} {{Direct Spell Damage=[[@{spellpower}-@{active_spells}]]}} {{AOE Spell damage=[[@{spellpower}/2-@{active_spells}]]}}" name="spell_attack"></button></td></tr>
+<tr><td>Ranged Attack:</td><td><button type="roll" value="&{template:default} {{name=Ranged attack}} {{attack=[[@{quick}/2+1d20]]}} {{Damage= [[@{weapon}+@{physical}]]}}" name="ranged attack"></button></td>
+<td>Defend:</td><td><button type="roll" value="&{template:default} {{name=Defend}} {{unarmored=[[1d20+@{quick}+@{shield}]]}}  {{armored=[[@{quick}/2+1d20+@{shield}]+@{armor}]]}}" name="defend"></button></td></tr>
+<tr><td>Heal:</td><td><button type="roll" value="&{template:default} {{name=Heal}} {{Healing=[[@{heal}+@{spellpower}-@{active_spells}]]}}" name="heal"></button></td>
+<td>Deceive / persuade:</td><td><button type="roll" value="&{template:default} {{name=Deceive / Persuade}} {{Check= [[1d20+@{charisma}]]}}" name="Deceive_persuade"></button></td></tr>
+<tr><td>Insight:</td><td><button type="roll" value="&{template:default} {{name=Insight}} {{Check=[[1d20+@{intelligence}]]" name="Insight"></button></td>
+<td>Perceive / Stealth:</td><td><button type="roll" value="&{template:default} {{name=Perceive / Stealth}} {{Check=[[1d20+@{intelligence}]]}} " name="perceive"></button></td></tr>
+<tr><td>Memory:</td><td><button type="roll" value="&{template:default} {{name=Memory}} {{Check=[[1d20+@{knowledge}]]}} " name="memory"></button></td></tr>
+</table>
