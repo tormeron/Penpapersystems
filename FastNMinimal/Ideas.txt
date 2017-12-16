@@ -1,0 +1,13 @@
+IDEAS
+
+-----
+
+
+1. open a git on a private server
+
+2. host all files under a similar tree
+
+3. open new directory with extended rules about specific topics (divided into different files per topic)
+
+4. more
+
