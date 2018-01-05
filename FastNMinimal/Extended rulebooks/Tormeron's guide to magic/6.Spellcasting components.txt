@@ -1,0 +1,8 @@
+This is a completely optional rule.
+
+Since spells are not devised in a list I cannot give you the exact components for every spell but as a suggestion I would say the cost of components should be worth 1 silver piece per point invested into the spell.
+
+These components remain after spellcasting unless they less than needed worth of components are used on a spell and then they are destroyed. Any spell can be cast with less than the needed amount of components but the lowest amount that should be possible to cast with for a spell will be half the worth of the spell.
+
+If the DM decides to go into spell runes instead of individual components, such as a fire rune for fire spells and such. I would define the cost per rune should be 10 gold for the 1st rune and for every additional rune it should cost an additional 50% since these runes are not destroyed with use. 
+Another option is that each rune would cost you 1 gold but be destroyed withing x amount of uses
