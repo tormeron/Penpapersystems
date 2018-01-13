@@ -9,8 +9,6 @@ Hard = 4
 Very hard = 5
 Nearly impossible = 6+
 
-The logic would be for every hit the player must land on the monster it augments the dificulty
-by 1.
-and for every hit the monster needs to land that is less than the players need to hit it
-augments the dificulty by 2.
-if the monster needs only 1 hit to kill a player augment difficulty by an additional 3
+The logic would be for every hit the player must land on the monster it augments the dificulty by 1.
+For every hit the monster needs to land that is less than the players need to hit it augments the dificulty by 2.
+If the monster needs only 1 hit to kill a player augment difficulty by an additional 3

@@ -11,5 +11,4 @@ There are 2 ways to deal with it:
 The longer the character is dead for the higher the payment should be for ressurecting their friends in the city / town.
 
 Ressurection should never become a norm to the group, if it does, maybe your campaign is too hard, consider making monsters with a lower dificulty level (see guideline #1)
-Alternatively, your players might not be good enough for your campaigns, consider lowering
-the monsters difficulty.
+Alternatively, your players might not be good enough for your campaigns, consider lowering the monsters difficulty.

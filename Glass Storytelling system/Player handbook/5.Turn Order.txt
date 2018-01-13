@@ -8,6 +8,6 @@ Turn order is always in the following way:
 
 During a round of battle this is the order of actions:
 
-1.1. Attack in any way (whether it's by physical attacks, Ranged attacks or spells)
-1.2. Other (such as spellcasting of non offensive magic or drinking a vial etc.)
-2. Defend if attacked (if successful then they shall dodge the attack unless it's an AOE in which time the DM might just make it reduce damage from the effect)
+1. Attack in any way (whether it's by physical attacks, Ranged attacks or spells) (or 2)
+2. Other (such as spellcasting of non offensive magic or drinking a vial etc.) (or 1)
+3. Defend if attacked (if successful then they shall dodge the attack unless it's an AOE in which time the DM might just make it reduce damage from the effect) (for every attack upon the target)
