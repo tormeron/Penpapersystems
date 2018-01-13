@@ -2,14 +2,14 @@ Abilities
 
 ability name - type of ability - affected by this characteristic:
 
-Attack - A melee attack - physical
-Defend - block or dodge - quick, armor
-deceive persuade - charisma
-perceive stealth - looking / hearing / hiding - intelligence
-memory - recalling, learning knowledge about - wisdom
-Attack spell - A spell attack - spellpower
-heal - Healing - heal, spellpower
-ranged attack - a ranged attack - quick
-damage - damage of spells or non spells - physical, spellpower
-Insight: intelligence
+Attack - A melee attack - physical (1d20+physical+weapon)
+Defend - block or dodge - quick, armor (1d20+quick or armor+shield)
+deceive persuade - charisma (1d20+charisma)
+perceive stealth - looking / hearing / hiding - intelligence (1d20+Intelligence)
+memory - recalling, learning knowledge about - wisdom  (1d20+knowledge)
+Attack spell - A spell attack - spellpower (1d20+spellpower-active_spells)
+heal - Healing - heal, spellpower (heal+spellpower-active_spells)
+ranged attack - a ranged attack - quick (1/2quick+1d20)
+damage - damage of spells or non spells - physical, spellpower (weapon+physical) or(spellpower-active spells)
+Insight: intelligence (1d20+intelligence)
 Notice that memory, attack spell, heal and damage for spells is affected by how many active spells you have
