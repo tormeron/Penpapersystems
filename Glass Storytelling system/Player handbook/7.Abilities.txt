@@ -1,5 +1,7 @@
 Abilities
-ability name - type of ability - affected by this characteristic
+
+ability name - type of ability - affected by this characteristic:
+
 Attack - A melee attack - physical
 Defend - block or dodge - quick, armor
 deceive persuade - charisma

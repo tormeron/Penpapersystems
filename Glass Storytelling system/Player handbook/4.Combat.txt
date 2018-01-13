@@ -1,7 +1,7 @@
 Combat
 In combat a few mechanics are put into place, instead of your usual Armor class that comes into play.
 first the player or monster rolls an attack/ spell attack roll, then the defending creature rolls a defend roll, if attack
-score is higher than defend score then that attack hits and does 1 damage to the creature.
+score is higher than defend score then that attack hits and does damage to the creature.
 Any spells cast as AOE apply only 1/2 spellpower to damage rolls.
 Using cover against ranged attacks gives you
 partial cover - +1/2 intelligence to defend

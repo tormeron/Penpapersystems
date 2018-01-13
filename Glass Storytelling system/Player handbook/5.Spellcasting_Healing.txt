@@ -1,32 +1,36 @@
 Spellcasting & Healing
-Introduction:
-Unlike in other D&D games, in this game all characters can learn to cast spells or heal others.
-In order to heal others you need at least 1 in heal attribute same goes for spell casting, you need at least 1 in
-spellpower
-healing ability can be performed from 15 feet away from the target.
 
-Spell casting is not limited to offensive spells.
-(options for types of magic: enchanting, summoning, necromancy, conjuration)
-Duration
-spells can last up to intelligence score.
+Introduction:
+
+Unlike in other D&D games, in this game all characters can learn to cast spells or heal others.
+In order to heal others you need at least 1 in heal attribute same goes for spell casting, you need at least 1 in spellpower.
+Healing ability can be performed from 15 feet away from the target.
+
+Spell casting is not limited to offensive spells. (options for types of magic: enchanting, summoning, necromancy, conjuration)
+
+Duration spells can last up to intelligence score.
 (so a character with 2 intelligence could either cast invisibility on a character for 2 rounds or 2 spells that last 1
 round)
-for every HP given to a conjured thing it counts as another spell active (all spells last as long as the spellcaster is
-concious / alive)
+
+for every HP given to a conjured thing it counts as another spell active (all spells last as long as the spellcaster is concious / alive)
+
 Spell costs
+
 for each spell active your knowledge and spellpower are reduced by 1 until that spell fades.you need at least 1
 remaining unused spellpower to cast spells.
+
 You need at least 1 spellpower left in order to cast more spells.
-permanent conjurations / summons / necromancy take the spellpower until destroyed completely, For every
-creature / object summoned / conjured it takes a spell slot.
-permanent enchantments on items require the item to be broken for spellpower to be freed. for every +1 to any
-attribute it takes another active spell slot.
-Illusions can only be maintained as long as the caster maintains focus on it, meaning sleeping would destroy the
-illusion. For every illusion object / creature it takes another active spell slot.
-An illusion would give the bonus to charisma equal to the knowledge minus active spells
+
+permanent conjurations / summons / necromancy take the spellpower until destroyed completely, For every creature / object summoned / conjured it takes a spell slot.
+permanent enchantments on items require the item to be broken for spellpower to be freed. for every +1 to any attribute it takes another active spell slot.
+
+Illusions can only be maintained as long as the caster maintains focus on it, meaning sleeping would destroy the illusion. 
+For every illusion object / creature it takes another active spell slot.
+An illusion would give the bonus to charisma equal to the knowledge minus active spells.
 Illusion spells can be detected if an insight check is successfull against a attack-spell roll.
 All illusions have no physical body to speak of and thus any touch or attacks on it, will pass through it and reveal
 the nature of the spell.
+
 Offensive spells can be shaped in the following ways: single target, cone shaped (30 feet wide at end and 30 feet
 long), Spherical (up to 60 feet wide sphere)
 Cone and spherical do AOE damage and not spell damage
