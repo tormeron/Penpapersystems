@@ -1,0 +1,26 @@
+Concentration
+
+One of the side rules that have been specified in the core rules but never quite explained thoroughly.
+
+Concentration is the ability of a spellcaster to retain his attention on a spell effect for lasting effect as long as the concentration holds.
+
+Every DM might decide when concentration is broken.
+
+Here are some options of when concentration could be broken:
+
+1. When the spellcaster suffers any damage
+2. When the spellcaster suffers more than 1/4 of the total hitpoints as damage
+3. when the spellcaster suffers more than 1/2 of the total hitpoints as damage
+4. If the spellcaster is rendered unconcious
+5. If one of the spellcaster's components is unavailable to him, such as speach or hand movement
+6. other
+
+How to deal with broken concentration:
+
+1. Roll a d100 and anything above 50 the spellcaster manages to retain it's concentration for each specific spell in concentration
+2. same as one but one roll applies to all spells in concentration
+3. the spell is cancelled
+4. the spell is cancelled and as a result a wild magic effect occurs (up to the DM)
+5. the spell is reversed upon the caster
+6. the spell is cancelled but due to cutting it short an explosion occurs causing a certain amount of damage upon the caster
+7. same as 6 but instead it's on target the explosion.

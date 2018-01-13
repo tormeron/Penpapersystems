@@ -1,0 +1,9 @@
+Conditions
+
+On the ground – Moves half rate including attacks
+
+Held – cannot move or moves ¼ speed depending on circumstances of what is holding it, able to attack if hands are free
+
+Incapacitated – Cannot move or attack
+
+Silenced / deafened / blinded – Cannot talk / hear / see making the character unable to base their attacks or movement based on the sense missing.

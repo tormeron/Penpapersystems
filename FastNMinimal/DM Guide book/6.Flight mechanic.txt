@@ -1,8 +1,9 @@
 Guideline #5 Flight mechanic
+
 Nowhere in the players handbook does it say how to deal with flying creatures or players.
+
 Flight might be granted by magical means or artifacts or in any other way imaginable.
-A simple way to deal with flying players would be that ranges are still applicable, so if he is 50
-feet into the air, he would need to be very close above the creature to be able to use his
-spells to attack the creature.
-If a player feels overpowered due to flight, consider bringing flying enemies or using nets
-against the flying player, etc.
+
+A simple way to deal with flying players would be that ranges are still applicable, so if he is 50 feet into the air, he would need to be very close above the creature to be able to use his spells to attack the creature.
+
+If a player feels overpowered due to flight, consider bringing flying enemies or using nets against the flying player, etc.

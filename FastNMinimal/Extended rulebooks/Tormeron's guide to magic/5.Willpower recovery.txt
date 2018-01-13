@@ -1,10 +1,8 @@
-There are 3 aproaches to how a spellcaster would recover his willpower:
+There are 2 aproaches to how a spellcaster would recover his willpower:
 
-1. once he finished casting the spell or finished his concentration on a spell or the summoned creature has died the points are recovered.
+1. Recovery over time – For every round after the spellcaster cast a spell, the points are recovered at his knowledge score per round. At a minimum of 1 per round.
 
-2. Recovery over time – For every round after the spellcaster cast a spell, the points are recovered at his knowledge score per round. At a minimum of 1 per round.
-
-3. Recovery after rest – Could be either a short rest or a long rest, depending on the DM, the spellcaster needs his rest to recover these points making it harder to cast magic all the time, but maybe in that system the caster can create permanent magic and still recover those points after a rest.
+2. Recovery after rest – Could be either a short rest or a long rest, depending on the DM, the spellcaster needs his rest to recover these points making it harder to cast magic all the time, but maybe in that system the caster can create permanent magic and still recover those points after a rest.
 As a suggestion I would say short rest should only recover part of the willpower while a long rest will recover them all.
 
-None of these 3 systems might fit you or a mix of 2 of them might fit you, feel free to change and alter as you see fit for your campaign. But remember before the campaign to explain to your players how you wish the system to work for recovery
+None of these 2 systems might fit you or a mix of 2 of them might fit you, feel free to change and alter as you see fit for your campaign. But remember before the campaign to explain to your players how you wish the system to work for recovery

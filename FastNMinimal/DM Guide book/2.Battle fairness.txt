@@ -1,4 +1,5 @@
 Guideline #1 Battle fairness
+
 The following should give you a fair way to measure when an encounter is fair, the
 measurement is 1 Player vs 1 Monster.
 Very easy = 1
@@ -7,6 +8,7 @@ Moderate = 3
 Hard = 4
 Very hard = 5
 Nearly impossible = 6+
+
 The logic would be for every hit the player must land on the monster it augments the dificulty
 by 1.
 and for every hit the monster needs to land that is less than the players need to hit it

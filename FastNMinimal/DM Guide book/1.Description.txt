@@ -1,6 +1,5 @@
 P&P Storytelling system – Dungeon Master Guide
-(Pen and paper)
-The following is a simple pen and paper gaming system for storytelling without the intricate
-rules given by more advanced systems such as Dungeons and Dragons (C).
-All the rules encompassed within this booklet are meant as a guidelines and should be
-changed if it doesn't fit the campaign, DM or players.
+
+The following is a simple pen and paper gaming system for storytelling without the intricate rules given by more advanced systems such as Dungeons and Dragons (C).
+
+All the rules encompassed within this booklet are meant as a guidelines and should be changed if it doesn't fit the campaign, DM or players.
