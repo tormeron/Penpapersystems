@@ -1,12 +1,16 @@
 Combat
 In combat a few mechanics are put into place, instead of your usual Armor class that comes into play.
+
 first the player or monster rolls an attack/ spell attack roll, then the defending creature rolls a defend roll, if attack
 score is higher than defend score then that attack hits and does damage to the creature.
+
 Any spells cast as AOE apply only 1/2 spellpower to damage rolls.
+
 Using cover against ranged attacks gives you
 partial cover - +1/2 intelligence to defend
 full cover - +intelligence to defend
 Logic should also be implemented if the cover is large enough to completely protect the target then no attack can
 hit.
+
 The bonus to full cover applies if the cover isn't 100% protecting. (for example hiding behind a tree branch might
 still get you hit by arrows sinking through the branch.)

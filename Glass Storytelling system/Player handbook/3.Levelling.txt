@@ -1,5 +1,5 @@
 Levelling
-levelling is not a long process in this D&D, you do something special or you fought some monster or you just hit
+levelling is not a long process in this system, you do something special or you fought some monster or you just hit
 some milestone the DM might let you just level
 the base HP of any level 1 character is 5
 at level 1 you start with 5 points to give yourself to any of the attributes that can be modified at level up.

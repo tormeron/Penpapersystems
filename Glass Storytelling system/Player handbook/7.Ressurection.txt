@@ -4,5 +4,7 @@ there might come a time in which a character might die, or an important NPC migh
 
 the character ressurecting must have at least 2 heal to do the ritual
 the party that is ressurecting the character would need to sacrifice 5 HP permanently in order to ressurect. 
-(it can be donated only from willing members, the amount can be anything from 1-5 until a total of 5 HP have been donated)
+
+it can be donated only from willing members, the amount can be anything from 1-5 until a total of 5 HP have been donated.
+
 Ressurection of any character is only possible if it has died less than 1 minute per heal point ago.

@@ -3,6 +3,7 @@ Spellcasting & Healing
 Introduction:
 
 Unlike in other D&D games, in this game all characters can learn to cast spells or heal others.
+
 In order to heal others you need at least 1 in heal attribute same goes for spell casting, you need at least 1 in spellpower.
 Healing ability can be performed from 15 feet away from the target.
 
